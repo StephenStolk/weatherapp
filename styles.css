@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    width: 300px;
+    padding: 20px;
+  }
+  
+  #app {
+    text-align: center;
+  }
+  
+  #city-input {
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  #search-btn {
+    padding: 10px 20px;
+    margin-bottom: 20px;
+  }
+  
+  #weather-container {
+    display: none;
+  }
+  
+  #weather-container.visible {
+    display: block;
+  }
+  
